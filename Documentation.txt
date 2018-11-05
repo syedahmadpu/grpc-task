@@ -1,6 +1,7 @@
 REQUIREMENTS:
 
 To begin with, we will need to install the required library and dependencies, we will be using Flask-RESTful, an extension for Flask which enables rapid development of REST API with minimal setup. 
+run the app using command 'python app.py'
 
 Install one of these API testing tool:
 
